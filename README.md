@@ -11,7 +11,7 @@
 Actually I'm looking for a job, where I can expand my pogrammer abilities so I would be glad to join into your team :raising_hand_man:.</h4>
 
 
-I'm diver :diving_mask:, husband :house: and the best developer :grin:!
+I'm a diver :diving_mask:, husband :house: and the best developer :grin:!
 
 *<h4>If you are looking for...</h4>*
 
@@ -27,7 +27,7 @@ I'm diver :diving_mask:, husband :house: and the best developer :grin:!
 
 :heavy_check_mark: quick-learning :books:
 
-:heavy_check_mark: honest :moneybag:
+:heavy_check_mark: honest :fist_right::fist_left:
 
 *<h4>...person:</h4>*
 
