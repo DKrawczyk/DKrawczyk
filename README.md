@@ -7,7 +7,7 @@
 <h3>Hello,  I am Dawid Krawczyk - beginner JavaScript React Developer :computer:.</h3>  
 
 
-<h4> I'm looking for new opportunities to improve my skills. :books:
+<h4>I'm looking for new opportunities to improve my skills. :books:
 Actually, I'm looking for a job, where I can expand my programmer abilities so I would be glad to join your team :raising_hand_man:.</h4>
 
 
