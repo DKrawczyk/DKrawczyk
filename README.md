@@ -4,7 +4,7 @@
 
 <h2>Welcome on my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<h3>Hello,  I am Dawid Krawczyk - beginner JavaScript React Developer:computer: .</h3>  
+<h3>Hello,  I am Dawid Krawczyk - beginner JavaScript React Developer:computer:.</h3>  
 
 
 <h4>I'm looking for new opportunities to improve my skills. :books:
