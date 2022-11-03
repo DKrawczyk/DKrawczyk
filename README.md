@@ -8,7 +8,7 @@
 
 
 <h4>I'm looking for new opportunities to improve my skills. :books:
-Actually, I'm looking for a job, where I can expand my programmer abilities so I would be glad to join your team :raising_hand_man:.</h4>
+Actually, I'm working as React Frontend Developer, where I can expand my programmer abilities. If you have an offer, feel free to contact with me! :raising_hand_man:.</h4>
 
 
 I'm a diver :diving_mask:, husband :house: and the best developer :grin:!
