@@ -4,11 +4,11 @@
 
 <h2>Welcome on my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<h3>Hello,  I am Dawid Krawczyk - Frontend Developer :computer:.</h3>  
+<h3>Hello,  I am Dawid Krawczyk - Fullstack Developer :computer:.</h3>  
 
 
 <h4>I'm looking for new opportunities to improve my skills. :books:
-Actually, I am working as a React Frontend Developer and I expanding my programming abilities. If you have some interesting offers, feel free to contact me! :raising_hand_man:.</h4>
+Actually, I am working as a React Frontend Developer and also as Fullstack Developer. Every day I'm looking for new chellanged. If you have some interesting offers, feel free to contact me! :raising_hand_man:.</h4>
 
 
 I'm a diver :diving_mask:, husband :house: and the best developer :grin:!
