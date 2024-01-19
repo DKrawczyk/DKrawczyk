@@ -11,7 +11,7 @@
 Actually, I am working as a React Frontend Developer and also as Fullstack Developer. Every day I'm looking for new chellanged. If you have some interesting offers, feel free to contact me! :raising_hand_man:.</h4>
 
 
-I'm a diver :diving_mask:, husband :house: and the best developer :grin:!
+Im a diver :diving_mask:, husband :house: and the best developer :grin:!
 
 *<h4>If you are looking for...</h4>*
 
